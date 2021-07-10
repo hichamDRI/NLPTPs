@@ -1,4 +1,4 @@
 nltk==3.2.5
 spacy==3.0.6
-pytorch==
-transformers==
+pytorch==1.8.0 
+transformers==4.8.2
