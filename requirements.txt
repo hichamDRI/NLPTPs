@@ -1,3 +1,5 @@
 nltk==3.2.5
 spacy==3.0.6
 transformers==2.1.1
+pandas==1.2.4
+scikit-learn==0.24.1
